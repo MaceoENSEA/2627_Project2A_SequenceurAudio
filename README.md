@@ -7,4 +7,8 @@ Notre projet a pour but de concevoir un synthé, c’est un instrument autonome 
 
 Fonctionalité
 
-
+-une sorte audio mini jack 3.5 
+-un écran pour indiquer présisément le BPM 
+-8 touches avec des leds 
+-une enveloppe sur les signaux d’entrée et sorte
+-des effects audio en sorte
